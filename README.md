@@ -1,6 +1,6 @@
 # VaR (Value-at-Risk) Calculator
 
-Calculate VaR using the Interactive Dashboard: https://var-calculator.streamlit.app  
+Calculate VaR using the Interactive Dashboard
 
 This module provides an easy-to-use Python class, `VaR`, for calculating Value-at-Risk (VaR) using three different methods: Historical, Parametric, and Monte Carlo simulation.
 
